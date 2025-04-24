@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+gradio
+requests
+langchain
+langchain-community
+langchain-google-genai
+openai
+anthropic
+python-dotenv
