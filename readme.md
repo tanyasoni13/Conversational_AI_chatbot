@@ -9,7 +9,7 @@ This project implements a conversational chatbot using FastAPI as the backend, G
 - Python 3.x
 - Virtual environment (optional but recommended)
 
-### Dependencies
+## Dependencies
 
 The project uses the following dependencies:
 
@@ -37,10 +37,10 @@ The project uses the following dependencies:
   pip install -r requirements.txt
 
 4. Create a .env file in the project root directory with the following variables:
-  # OpenAI
+   OpenAI
   OPENAI_API_KEY=<your-openai-api-key>  # Optional, but not currently used
   
-  # Google Gemini (Generative AI)
+  Google Gemini (Generative AI)
   GEMINI_API_KEY=<your-gemini-api-key>
 
 5. Run the FastAPI backend server:
