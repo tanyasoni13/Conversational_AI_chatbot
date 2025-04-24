@@ -38,15 +38,15 @@ The project uses the following dependencies:
 
 4. Create a .env file in the project root directory with the following variables:
    OpenAI
-  OPENAI_API_KEY=<your-openai-api-key>  # Optional, but not currently used
-  
-  Google Gemini (Generative AI)
-  GEMINI_API_KEY=<your-gemini-api-key>
+   OPENAI_API_KEY=<your-openai-api-key> #Optional, but not currently used
+   
+   Google Gemini (Generative AI)
+   GEMINI_API_KEY=<your-gemini-api-key>
 
-5. Run the FastAPI backend server:
+6. Run the FastAPI backend server:
    uvicorn app:app --reload
 
-6. To run the frontend, run the following:
+7. To run the frontend, run the following:
    python ui.py
 
 ## Project Structure
