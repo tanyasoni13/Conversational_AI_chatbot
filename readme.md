@@ -27,7 +27,7 @@ The project uses the following dependencies:
 ### Installation
 
 1. Clone the repository:
-   git clone <https://github.com/tanyasoni13/demo_repo.git>
+   git clone <https://github.com/tanyasoni13/Conversational_AI_chatbot.git>
 
 2. Set up a virtual environment (optional but recommended):
   python -m venv venv
